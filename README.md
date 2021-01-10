@@ -7,8 +7,8 @@ Email: abednegoaginam@gmail.com
 
 Introduction to Machine learning
 
-#Requirements
+# Requirement
 
 An understanding of python libraries like numpy, pandas and a host of other scikit libraries
 
-#Certification
+# Certification
